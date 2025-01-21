@@ -1,4 +1,4 @@
-# user-clustering-sql-python
+
 # User Clustering with SQL and Python
 
 ## Project Overview
