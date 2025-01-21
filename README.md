@@ -114,9 +114,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn sqlalchemy
 - Visualization of user clusters to identify different types of contributors.
 - Insights into user engagement patterns and recommendations to increase participation.
 
-Example of generated visualization:
-
-![Sample Visualization](presentation/sample_visualization.png)
 
 ---
 
@@ -130,7 +127,9 @@ Example of generated visualization:
 
 ## Contributors
 
-- **Uday Bagaria** - [LinkedIn](your-linkedin-url)
+- **Uday Bagaria** - [LinkedIn](www.linkedin.com/in/udaybagaria
+
+)
 - Contributions and suggestions are welcome!
 
 ---
@@ -143,4 +142,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or feedback, reach out at `your-email@example.com`
+For questions or feedback, reach out at `bagaria.u@northeastern.edu`
