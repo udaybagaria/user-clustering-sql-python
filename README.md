@@ -127,9 +127,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn sqlalchemy
 
 ## Contributors
 
-- **Uday Bagaria** - [LinkedIn](www.linkedin.com/in/udaybagaria
-
-)
+- **Uday Bagaria** - [LinkedIn](www.linkedin.com/in/udaybagaria)
 - Contributions and suggestions are welcome!
 
 ---
